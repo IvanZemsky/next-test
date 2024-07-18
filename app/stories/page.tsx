@@ -1,4 +1,4 @@
-import { Stories } from "@/src/pages/Stories"
+import { Stories } from "@/src/views/Stories"
 
 const page = () => {
    return (
