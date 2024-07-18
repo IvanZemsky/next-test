@@ -1,2 +1,6 @@
 import { Stories } from "@/src/pages/Stories"
-export default Stories
+const page = () => {
+   return (
+      <p>Stories</p>
+   )
+}
